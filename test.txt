@@ -3,4 +3,7 @@ Stergem ce era, si scriem un alt rand.
 Acesta este un nou rand.
 
 Facem o modificare, din branchul feature/One. Aceasta este modificarea.
+Mai facem o modificare, din branchul feature/One. Aceasta este modificarea.
+
+Facem a treia modificare, din branchul feature/One. Aceasta este modificarea.
 
